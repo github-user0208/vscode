@@ -1,2 +1,6 @@
-import numpy as np
-print(np.__version__)  # 버전 확인용
+a = {'b': 3,
+     'c': 4,
+     'd': 5}
+
+for i in enumerate(a):
+    print(i)

@@ -1,4 +1,3 @@
-# Write your solution here
 def cal(s):
   Dict = {'(' : 2, '[' : 3}
   match = {')' : '(', ']' : '['}
